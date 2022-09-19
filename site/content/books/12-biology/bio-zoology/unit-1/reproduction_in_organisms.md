@@ -288,7 +288,7 @@ functioning of the body.
 
 
 
-###PARTHENOGENESIS
+**PARTHENOGENESIS**
 
 **(Gr. Parthenos – virgin, Genesis-produce)**
 
