@@ -221,36 +221,36 @@ cultivation of sponges.
 Different kinds of syngamy (fertilization)
 are prevalent among living organisms.
 
-a) **Autogamy*- The male and female
+a) **Autogamy**- The male and female
 gametes are produced by the same cell or same
 organism and both the gametes fuse together
 to form a zygote. e.g. Actinosphaerium and
 Paramecium.
 
-b) **Exogamy*- The male and female gametes
+b) **Exogamy**- The male and female gametes
 are produced by different parents and they fuse
 to form a zygote. So it is biparental. e.g. Human
 – dioecious or unisexual animal.
 
-c) **Hologamy*- Lower organisms,
+c) **Hologamy**- Lower organisms,
 sometimes the entire mature organisms do not
 form gametes but they themselves behave as
 gametes and the fusion of such mature individuals
 is known as hologamy e.g. Trichonympha.
 
-d) **Paedogamy*- It is the sexual union of
+d) **Paedogamy**- It is the sexual union of
 young individuals produced immediately after
 the division of the adult parent cell by mitosis.
 
-e) **Merogamy*- The fusion of small
+e) **Merogamy**- The fusion of small
 sized and morphologically different gametes
 (merogametes) takes place.
 
-f) **Isogamy*- The fusion of morphological
+f) **Isogamy**- The fusion of morphological
 and physiological identical gametes
 (isogametes) is called isogamy. e.g. Monocystis.
 
-g) **Anisogamy*- The fusion of dissimilar
+g) **Anisogamy**- The fusion of dissimilar
 gametes is called anisogamy (Gr. An-without;
 iso-equal; gam-marriage). Anisogamy occurs
 in higher animals but it is customary to use
@@ -304,14 +304,14 @@ is known as natural parthenogenesis.
 
 **Natural parthenogenesis are of different types:**
 
-a) **Arrhenotoky*: In this type
+a) **Arrhenotoky**: In this type
 only males are produced by parthenogenesis.
 e.g. honey bees
 
-b) **Thelytoky*: In this type only females are
+b) **Thelytoky**: In this type only females are
 produced by parthenogenesis. e.g. Solenobia
 
-c) **Amphitoky*: In this type parthenogenetic
+c) **Amphitoky**: In this type parthenogenetic
 egg may develop into individuals of any sex.
 e.g. Aphis
 
@@ -396,33 +396,33 @@ parthenogenesis.
 parthenogenesis are
 only males produced?
 
-a) Arrhenotoky
+    a) Arrhenotoky
 
-b) Thelytoky
+    b) Thelytoky
 
-c) Amphitoky d) Both a and b
+    c) Amphitoky d) Both a and b
 
 2. The mode of reproduction in bacteria is
 by
 
-a) Formation of gametes
+    a) Formation of gametes
 
-b) Endospore formation
+    b) Endospore formation
 
-c) Conjugation
+    c) Conjugation
 
-d) Zoospore formation
+    d) Zoospore formation
 
 3. In which mode of reproduction variations
 are seen
 
-a) Asexual 
+    a) Asexual 
 
-b) Parthenogenesis
+    b) Parthenogenesis
 
-c) Sexual 
+    c) Sexual 
 
-d) Both a and b
+    d) Both a and b
 
 4. Assertion and reasoning questions:
 In each of the following questions there
@@ -430,42 +430,42 @@ are two statements. One is assertion (A)
 and other is reasoning (R). Mark the
 correct answer as
 
-A. If both A and R are true and R is correct
-explanation for A
+    A. If both A and R are true and R is correct
+    explanation for A
 
-B If both A and R are true but R is not the
-correct explanation for A
+    B. If both A and R are true but R is not the
+    correct explanation for A
 
-C. If A is true but R is false
+    C. If A is true but R is false
 
-D. If both A and R are false.
+    D. If both A and R are false.
 
 **I.Assertion:**
 
-In bee society, all the
-members are diploid
-except drones.
+    In bee society, all the
+    members are diploid
+    except drones.
 
 **Reason:**
 
-Drones are produced by
-parthenogenesis.
-A B C D
+    Drones are produced by
+    parthenogenesis.
+    A B C D
 
 **II. Assertion:**
 
- Offsprings produced by
-asexual reproduction are genetically
-identical to the parent.
+    Offsprings produced by
+    asexual reproduction are genetically
+    identical to the parent.
 
 **Reason:**
 
-Asexual reproduction
-involves only mitosis and no meiosis.
-A B C D
+    Asexual reproduction
+    involves only mitosis and no meiosis.
+    A B C D
 
 5. Name an organism where cell division is
-itself a mode of reproduction.
+itseslf a mode of reproduction.
 
 6. Name the phenomenon where the female
 gamete directly develops into a new
@@ -486,20 +486,20 @@ reproduction referred as a clone?
 
 11. Give reasons for the following:
 
-(a) Some organisms like honey bees are
-called parthenogenetic animals
+    (a) Some organisms like honey bees are
+    called parthenogenetic animals
 
-(b) A male honey bee has 16 chromosomes
-where as its female has 32 chromosomes.
+    (b) A male honey bee has 16 chromosomes
+    where as its female has 32 chromosomes.
 
 12. Differentiate between the following:
 
-(a) Binary fission in amoeba and multiple
-fission in Plasmodium
+    (a) Binary fission in amoeba and multiple
+    fission in Plasmodium
 
-(b) Budding in yeast and budding in Hydra
+    (b) Budding in yeast and budding in Hydra
 
-(c) Regeneration in lizard and Planaria
+    (c) Regeneration in lizard and Planaria
 
 13. How is juvenile phase different from
 reproductive phase?
